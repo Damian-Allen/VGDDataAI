@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\damia\Documents\Visual Studio 2019\Projects\Data Structures\Data Structures\Main.cpp(46,24): warning C4018: '>': signed/unsigned mismatch
+C:\Users\damia\Documents\Visual Studio 2019\Projects\Data Structures\Data Structures\Main.cpp(67,24): warning C4018: '>': signed/unsigned mismatch
+C:\Users\damia\Documents\Visual Studio 2019\Projects\Data Structures\Data Structures\Main.cpp(88,24): warning C4018: '>': signed/unsigned mismatch
+C:\Users\damia\Documents\Visual Studio 2019\Projects\Data Structures\Data Structures\Main.cpp(109,24): warning C4018: '>': signed/unsigned mismatch
+  Data Structures.vcxproj -> C:\Users\damia\Documents\Visual Studio 2019\Projects\Data Structures\Debug\Data Structures.exe
